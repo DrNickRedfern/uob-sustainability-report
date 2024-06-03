@@ -169,3 +169,11 @@ src/
 
 # exclude background information
 store/
+images/
+.Rproj.user
+
+# Don't shre login details
+dsl.ini
+
+# ignore r stuff for now
+*.Rproj
